@@ -7,7 +7,18 @@ Let's look at some of the shortcut keys we can use to help speed up our coding a
 
 You probably know what these do. <kbd>ctrl</kbd> + <kbd>c</kbd> will *copy* the text you've `highlighted` and <kbd>ctrl</kbd> + <kbd>v</kbd> will *paste* that copied text where your cursor is.  
 
-![Copy Paste](http://i.imgur.com/FEtJLIH.gif)
+![Copy Paste](http://i.imgur.com/FEtJLIH.gif)  
+
+![Copy Paste](http://i.imgur.com/1cIiIAC.gif)
+
+Pasted too much. undo
+
+![Undo](http://i.imgur.com/oLLB2Rs.gif)
+
+oops, undid too far. redo
+
+![Redo](http://i.imgur.com/odPlM8c.gif)
+
 
 
 
