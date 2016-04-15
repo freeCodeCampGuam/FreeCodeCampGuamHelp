@@ -3,4 +3,8 @@ If you're doing a lot of coding, having to take your hands off the keyboard to u
 
 Let's look at some of the shortcut keys we can use to help speed up our coding and to help us stop relying on the mouse so much.
 
-1st off is the infamous <kbd>ctrl</kbd> + <kbd>c</kbd> and <kbd>ctrl</kbd> + <kbd>v</kbd> for **Copy** and **Paste**
+1st off is the infamous <kbd>ctrl</kbd> + <kbd>c</kbd> and <kbd>ctrl</kbd> + <kbd>v</kbd> for **Copy** and **Paste**  
+You probably know what these do. <kbd>ctrl</kbd> + <kbd>c</kbd> will *copy* the text you've <span style="background-color: #FFFF00">highlighted</span> and <kbd>ctrl</kbd> + <kbd>v</kbd> will *paste* that copied text where your cursor is.
+\<insert gif here\>
+
+
