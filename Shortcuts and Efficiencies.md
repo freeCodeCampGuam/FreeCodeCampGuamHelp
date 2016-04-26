@@ -1,3 +1,7 @@
+---
+title: Shortcuts and Efficiencies
+---
+
 Good coders try to limit their use of the mouse.  
 If you're doing a lot of coding, having to take your hands off the keyboard to use the mouse slows you down!  
 
