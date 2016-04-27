@@ -34,7 +34,7 @@ Section headers link to the 1st challenge within the section, so they may not be
 	1. [Computer Basics: Decoding a Binary Number](https://www.freecodecamp.com/videos/computer-basics-decoding-a-binary-number) - binary, conversion
 	2. [Variables In Code](https://www.freecodecamp.com/videos/variables-in-code) - variables
 2. **[JavaScript Lingo](https://www.freecodecamp.com/videos/javascript-lingo-mdn-and-documentation)**
-	1. [](https://www.freecodecamp.com/videos/javascript-lingo-loops)
+	1. [JavaScript Lingo: Loops](https://www.freecodecamp.com/videos/javascript-lingo-loops)
 3. **[Big O Notation](https://www.freecodecamp.com/videos/big-o-notation-what-it-is-and-why-you-should-care)**
 	1. [Big O Notation: What It Is and Why You Should Care](https://www.freecodecamp.com/videos/big-o-notation-what-it-is-and-why-you-should-care) - complexity
 	2. [Big O Notation: A Few Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples)
