@@ -3,7 +3,7 @@ title: Math Concepts in FCC materials
 ---
 
 ## Math Concepts in FCC materials
-Section headers link to the 1st challenge within the section.
+Section headers link to the 1st challenge within the section, so they may not be that useful.
 
 ### [Front End Development](https://www.freecodecamp.com/map)
 1. **[Basic Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code)**
