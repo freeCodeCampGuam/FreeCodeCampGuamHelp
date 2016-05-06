@@ -7,4 +7,6 @@ Our Friday 3/4pm campsite meetings will be going through challenges together fro
 If you're 'behind' us on the trail, we'll leave footprints for you to follow.  
 Please ask us to help you also! We're all in this together.
 
+This trail will help people that can't make the meetings also
+
 TODO: continue this readme later..
