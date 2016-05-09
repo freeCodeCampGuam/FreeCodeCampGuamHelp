@@ -23,5 +23,5 @@ If the title/area isn't there, please add it along with a short description.
 
 ## Team Members:
 
-**Chovin Carlson (Chovin)** - Explorer, Course Builder, Project Manager, Documentation
-
+**Chovin Carlson (Chovin)** - Explorer, Course Builder, Project Manager, Documentation  
+**Rachel Manglona (rmanglona)**
