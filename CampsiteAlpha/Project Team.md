@@ -43,5 +43,5 @@ Since our campsite meeting already has a large turnout, we'd probably need a sep
 
 ## Team Members:
 
-**Chovin Carlson (Chovin)** - Explorer, Course Builder, Project Manager, Documentation, Meeting Organizer, Community Organizer
+**Chovin Carlson (Chovin)** - Explorer, Course Builder, Project Manager, Documentation, Meeting Organizer, Community Organizer  
 **Rachel Manglona (rmanglona)**
