@@ -23,7 +23,7 @@ So far we've only decided that we'll be going through 4 lessons a week and that 
 In preparation for island-wide launch, soon we'd like to invite your kids to join FCC too.  
 Hopefully it's something fun you can do with your kids.  
 It'll also help us with learning how to teach and communicate about code, preparing for the summer camp and island-reveal.  
-Since our campsite meeting already has a large turnout, we'd probably need a separate campsite meeting just for the kids. You can 
+Since our campsite meeting already has a large turnout, we'd probably need a separate campsite meeting just for the kids.   
 
 
 ## Roles
