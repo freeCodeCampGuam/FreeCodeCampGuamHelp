@@ -1,4 +1,4 @@
-## [New Stuffs](https://github.com/Chovin/FreeCodeCampGuamHelp/blob/master/MeetingNotes/5-6.md)
+#### [New Stuffs](https://github.com/Chovin/FreeCodeCampGuamHelp/blob/master/MeetingNotes/5-6.md)
 
 ### Campsite Alpha's Learning Trail..
 
