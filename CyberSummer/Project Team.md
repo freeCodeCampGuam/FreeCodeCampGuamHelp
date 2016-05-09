@@ -16,7 +16,7 @@ If the title/area isn't there, please add it along with a short description.
 
 **Documentation**: Does most of the actual writing / authoring / editing of the content and makes sure our members / discussions / decisions are documented.
 
-**Teachers**: Making sure all the material is in order and actually teaching the course / helping the kids during the summer class
+**Teacher(s)**: Making sure all the material is in order and actually teaching the course / helping the kids during the summer class
 
 ...
 
