@@ -1,4 +1,6 @@
-#### We're working with UOG and GDOE to get FCC into their Cyber Summer summer camp.
+## Cyber Summer and Free Code Camp Guam
+
+We're working with UOG and GDOE to get FCC into their Cyber Summer summer camp.
 
 1. Many kids in Guam lack good education in Math and English.
 2. Coding classes are also almost non-existant here on island.
