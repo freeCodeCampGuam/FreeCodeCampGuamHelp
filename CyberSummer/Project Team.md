@@ -1,6 +1,6 @@
 # Project Team
 
-    A list of the contributors to the project that is our involvement with OUG's Cyber Summer Course.
+    A list of the contributors to the project that is our involvement with UOG's Cyber Summer Course.
 
 If you would like to help out with this project, please make a comment or PR to this file adding your name and github username followed by any areas you'd be interested in helping with. 
 You don't have to choose areas/titles if you don't want to.  
