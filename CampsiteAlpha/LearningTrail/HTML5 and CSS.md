@@ -31,8 +31,8 @@
 ##  5.	Links and Anchors
 21.	Link to External Pages with Anchor Elements  
 22.	Nest an Anchor Element within a Paragraph  
-23.	Make Dead Links using the Hash Symbol  
-24.	Turn an Image into a Link  
+23.	[Make Dead Links using the Hash Symbol](https://www.freecodecamp.com/challenges/make-dead-links-using-the-hash-symbol)  
+24.	[Turn an Image into a Link](https://www.freecodecamp.com/challenges/turn-an-image-into-a-link)  
 25.	Add Alt Text to an Image for Accessibility  
 
 ##  6.	Lists
