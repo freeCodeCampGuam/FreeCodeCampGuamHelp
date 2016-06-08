@@ -1,0 +1,1 @@
+This project is the JavaScript version of the Guam Free Code Camp Leaderboard.
