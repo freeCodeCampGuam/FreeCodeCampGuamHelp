@@ -1,0 +1,1 @@
+This project is the Python Gitter Bot version of the Guam Free Code Camp Leaderboard.
