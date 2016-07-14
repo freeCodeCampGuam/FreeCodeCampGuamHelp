@@ -1,7 +1,10 @@
 # based heavily on discord.py/ext/commands
 
+from gitterpy3 import Gitter
 import inspect
 import traceback
+import os
+import json
 
 # globals
 cmds = {
@@ -9,6 +12,10 @@ cmds = {
     'commands':{}
     }
 prefix = '!'
+gitter = None
+_room_path = 'rooms.json'
+rooms = None
+streams = {}
 
 # decorators
 
@@ -38,6 +45,54 @@ def trigger(*args, **kwargs):
     return command(*args, **kwargs)
 
 # helpers
+
+def say(msg):
+    return gitter.sendMessage(gitter.prev_room, msg)
+
+# helpers from Red-DiscordBot
+def read_json(filename):
+    with open(filename, encoding='utf-8', mode="r") as f:
+        data = json.load(f)
+    return data
+
+def save_json(filename, data):
+    with open(filename, encoding='utf-8', mode="w") as f:
+        json.dump(data, f, indent=4,sort_keys=True,
+            separators=(',',' : '))
+    return data
+
+def process_stream(stream):
+    msg = next(stream)
+    if not msg:
+        return
+    msg = json.loads(msg.decode('utf-8'))['text']
+    for line in stream:
+        pass  # consume stream
+    print(msg)
+    print(msg.startswith(prefix))
+    if msg.startswith(prefix):
+        cmsg = msg[len(prefix):]
+        cmd = cmsg.split()[0]
+
+        if cmd in cmds['commands']:
+            try:
+                process_command(cmds['commands'][cmd],cmsg[len(cmd):])
+            except Exception as e:
+                print(traceback.print_exc())
+
+    else:
+        # going through triggers means we can have have multi-word triggers.
+        # but it also means execution of triggers is non-deterministic
+        # we're also deciding to only trigger on one per msg
+        # for now, hacking in on_message. change into event later
+        for kw in cmds['triggers'].keys():
+            if kw.lower() in msg.lower():
+                try:
+                    process_command(cmds['triggers'][kw],msg)
+                except Exception as e:
+                    print(traceback.print_exc())
+                if kw:  # on_message hack
+                    break
 
 def process_command(func, argstr):
     sig = inspect.signature(func)
@@ -99,7 +154,8 @@ def bar(s):
 @command()
 def ping():
     """you working?"""
-    print('pong')
+    print('pinging')
+    say('pong')
 
 @command(name='sort')
 def _sort(*words):
@@ -132,6 +188,10 @@ def tree(height : int=None):
     print('\n'.join([' '*(height-i-1)+'*'*(2*i+1)
             for i in range(0,height)])+
             '\n'+' '*(height-1)+'H')
+
+@command(name='prefix')
+def _prefix(_prefix_):
+    prefix = _prefix_
 
 @command()
 def help(command_or_trigger=None):
@@ -209,38 +269,62 @@ def on_message(*msg):
         random.shuffle(words)
         print(' '.join(words))
 
-# input loop
 
-print('\nBot is on \o/\n{} commands registered\n'
-        '{} triggers registered\n'.format(
-        len(cmds['commands']),len(cmds['triggers'])))
+# input loop
 
 # if <prefix>command_name in input, process command.
 # commands get rest of sentence as arg.
 # else if trigger in msg, process trigger
 # trigger can be part of a word in msg
-while True:
-    msg = input('> ')
-    if msg.startswith(prefix):
-        cmsg = msg[len(prefix):]
-        cmd = cmsg.split()[0]
+def loop():
+    while True:
+        for old in set(streams)-set(rooms):
+            del streams[old]
+        for room in rooms:
+            if room not in streams:
+                streams[room] = gitter.roomStream(room).iter_lines()
+            gitter.prev_room = room
+            process_stream(streams[room])
 
-        if cmd in cmds['commands']:
-            try:
-                process_command(cmds['commands'][cmd],cmsg[len(cmd):])
-            except Exception as e:
-                print(traceback.print_exc())
-
+def login():
+    token = ''
+    token_path = 'gitter_token.txt'
+    if os.path.isfile(token_path):
+        with open(token_path) as f:
+            token = f.read()
     else:
-        # going through triggers means we can have have multi-word triggers.
-        # but it also means execution of triggers is non-deterministic
-        # we're also deciding to only trigger on one per msg
-        # for now, hacking in on_message. change into event later
-        for kw in cmds['triggers'].keys():
-            if kw.lower() in msg.lower():
-                try:
-                    process_command(cmds['triggers'][kw],msg)
-                except Exception as e:
-                    print(traceback.print_exc())
-                if kw:  # on_message hack
-                    break
+        print('No token file found. Please enter your Gitter API token.\n'
+            'You can get it from here: https://developer.gitter.im/apps\n')
+        token = input('Enter your token: ')
+    gitter = None
+    while not gitter:
+        try:
+            gitter = Gitter(token)
+        except:
+            token = input('Was not able so sign in. incorrect token?\nEnter a new one: ')
+
+    if not os.path.isfile(token_path):
+        with open(token_path, 'w') as f:
+            f.write(token)
+
+    while not rooms:
+        room = input('Bot is not in a room.\nEnter a room name: ')
+        if gitter.joinRoom(room) != None:
+            rooms.append(room)
+            save_json(_room_path,rooms)
+        else:
+            print('Not able to join '+room)
+
+
+    print('\nBot is on \o/\nIn these servers: {}\n{} commands registered\n'
+            '{} triggers registered\n'.format(rooms,
+            len(cmds['commands']),len(cmds['triggers'])))
+
+    return gitter
+
+
+rooms = read_json(_room_path) if os.path.isfile(_room_path) else []
+streams = {}
+
+gitter = login()
+loop()
