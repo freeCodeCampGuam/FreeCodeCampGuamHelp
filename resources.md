@@ -67,7 +67,6 @@
     * https://www.bloc.io/ruby-warrior#/
   9. Command Line
     * http://cli.learncodethehardway.org/book/
-    *
   10. Markdown
     * http://nestacms.com/docs/creating-content/markdown-cheat-sheet <-- Cheatsheet
 
