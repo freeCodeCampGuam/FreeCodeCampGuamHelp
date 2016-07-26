@@ -38,7 +38,8 @@
     * https://www.kaggle.com/
     * http://codingbat.com
   3. #### Git (Version Control)
-    * http://www.git-game.com/ <-- from fcc guys
+    * http://www.git-game.com/
+    * http://learngitbranching.js.org/
   4. #### HTML/CSS
     * http://www.freecodecamp.com/
     * https://github.com/dargaCode/WebDevStudyResources
@@ -53,7 +54,6 @@
     * http://reactivex.io/learnrx/ <-- functional programming
     * https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 <-- functional programming
     * https://github.com/getify/You-Dont-Know-JS <-- book series
-
   6. #### Python
     * http://learnpythonthehardway.org/book/
     * http://programarcadegames.com/
@@ -67,7 +67,6 @@
     * https://www.bloc.io/ruby-warrior#/
   9. #### Command Line
     * http://cli.learncodethehardway.org/book/
-    *
   10. #### Markdown
     * http://nestacms.com/docs/creating-content/markdown-cheat-sheet <-- Cheatsheet
 
