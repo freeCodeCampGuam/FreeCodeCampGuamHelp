@@ -1,5 +1,5 @@
 # **Programming**
-  1. #### General
+  1. General
     * https://www.reddit.com/r/learnprogramming/wiki/online
     * https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_started_with_programming.3F
     * https://medium.freecodecamp.com/growth-hacking-your-free-code-camp-group-8cf76300a5d1#.pnmmv9g31
@@ -14,7 +14,7 @@
     *
     https://realfavicongenerator.net/ <-- favicon generator
     * http://regexr.com/ <-- Regular Expressions
-  2. #### Practice
+  2. Practice
     * http://www.dungeonsanddevelopers.com/
     * https://codecombat.com/
     * http://www.codeabbey.com/
@@ -37,12 +37,12 @@
     * http://exercism.io/
     * https://www.kaggle.com/
     * http://codingbat.com
-  3. #### Git (Version Control)
+  3. Git (Version Control)
     * http://www.git-game.com/ <-- from fcc guys
-  4. #### HTML/CSS
+  4. HTML/CSS
     * http://www.freecodecamp.com/
     * https://github.com/dargaCode/WebDevStudyResources
-  5. #### JavaScript
+  5. JavaScript
     * http://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript <-- scoping example
     * http://store.steampowered.com/app/464350/ <-- js ai game
     * http://javascriptissexy.com/understand-javascript-closures-with-ease/ <-- Closures
@@ -54,21 +54,21 @@
     * https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 <-- functional programming
     * https://github.com/getify/You-Dont-Know-JS <-- book series
 
-  6. #### Python
+  6. Python
     * http://learnpythonthehardway.org/book/
     * http://programarcadegames.com/
     * http://www.pythontutor.com/ <-- JS/Python live code interpreter/visualization
     * http://interactivepython.org/ <-- REALLY awesome group of CS books in python with interactive lessons, exercises, and visualizations
     * https://github.com/zoofIO/flexx
-  7. #### Swift
+  7. Swift
     * http://finance.yahoo.com/news/apple-just-launched-absolute-best-190500639.html
     * https://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963
-  8. #### Ruby
+  8. Ruby
     * https://www.bloc.io/ruby-warrior#/
-  9. #### Command Line
+  9. Command Line
     * http://cli.learncodethehardway.org/book/
     *
-  10. #### Markdown
+  10. Markdown
     * http://nestacms.com/docs/creating-content/markdown-cheat-sheet <-- Cheatsheet
 
 # **Computer Science**
