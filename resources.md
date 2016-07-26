@@ -11,8 +11,7 @@
     https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work#t-234384
     * https://www.youtube.com/user/thenewboston/playlists
     * https://www.youtube.com/user/learncodeacademy/playlists
-    *
-    https://realfavicongenerator.net/ <-- favicon generator
+    * https://realfavicongenerator.net/ <-- favicon generator
     * http://regexr.com/ <-- Regular Expressions
   2. Practice
     * http://www.dungeonsanddevelopers.com/
@@ -53,7 +52,6 @@
     * http://reactivex.io/learnrx/ <-- functional programming
     * https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 <-- functional programming
     * https://github.com/getify/You-Dont-Know-JS <-- book series
-
   6. Python
     * http://learnpythonthehardway.org/book/
     * http://programarcadegames.com/
