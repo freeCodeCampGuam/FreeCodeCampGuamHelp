@@ -37,6 +37,7 @@
     * https://www.kaggle.com/
     * http://codingbat.com
   3. Git (Version Control)
+    * https://education.github.com/git-cheat-sheet-education.pdf
     * http://www.git-game.com/ <-- from fcc guys
   4. HTML/CSS
     * http://www.freecodecamp.com/
