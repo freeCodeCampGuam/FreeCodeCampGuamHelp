@@ -50,6 +50,7 @@
     * http://javascript-roadtrip.codeschool.com/levels/1 <-- interactive beginner JS tutorial
     * http://ejohn.org/apps/learn/ <-- more advanced for later
     * https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658#.6uoesisbf <-- GREAT Electron tutorial. it is pre-1.0 though so some changes need to be made. figure it out for practice or use the changes in [this gist](https://gist.github.com/Chovin/dd29a9f8f89d2e00387db0787328efe3)
+    * https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c#.2cocnehwq <-- easily start creating React apps  
     * http://reactivex.io/learnrx/ <-- functional programming
     * https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84 <-- functional programming
     * https://github.com/getify/You-Dont-Know-JS <-- book series
