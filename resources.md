@@ -1,6 +1,8 @@
 # **Programming**
   1. General
-    * https://www.reddit.com/r/learnprogramming/wiki/online
+    * https://app.pluralsight.com/id/signin/?redirectTo=https%3A%2F%2Fapp.pluralsight.com%2Flibrary%2F <-- free for six months. must sign up with an email from Microsoft (hotmail? live? not sure)
+    * https://www.reddit.com/r/learnprogramming/comments/38eq7q/heres_a_list_of_154_free_online_programmingcs/ <-- list of programming books/MOOCs
+    * https://www.reddit.com/r/learnprogramming/wiki/onlin
     * https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_started_with_programming.3F
     * https://medium.freecodecamp.com/growth-hacking-your-free-code-camp-group-8cf76300a5d1#.pnmmv9g31
     * https://code4startup.com/
@@ -78,6 +80,8 @@
     * https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/courseware/c879223aff62482dbfcf57265b23e5d7/ <-- Linux
     * https://www.youtube.com/user/afigfigueira/playlists?shelf_id=6&view=50&sort=dd <-- Programming Languages
     * https://www.udacity.com/course/viewer#!/c-ud923/l-3056258560/m-3306199014 <-- Operating Systems
+    * https://github.com/open-source-society/computer-science <-- repo with free resources on important CS topics
+    * https://www.google.com/about/careers/students/guide-to-technical-development.html <-- Google's "Technical Development Guide"
   2. Machine Learning
     * https://www.ibm.com/watson/developerbutt/services-catalog.html
     * https://www.tensorflow.org/versions/r0.9/tutorials/index.html
@@ -99,3 +103,50 @@
 # **Dot Files**
   * https://github.com/addyosmani/dotfiles/blob/master/.aliases
   * https://github.com/mathiasbynens/dotfiles/blob/master/.aliases
+
+# **News Sites**
+  * https://news.ycombinator.com/ <-- Hacker News
+  * https://techcrunch.com/
+
+# **Blogs**
+
+# **Twitter**
+  1. Programming
+    * https://twitter.com/addyosmani <-- Engineer at Google working on @GoogleChrome • Author • Creator of TodoMVC, @Yeoman, Material Design Lite, Critical
+    * https://twitter.com/TheHackersNews
+  2. Cyber Security
+    * https://twitter.com/SANSEMEA
+    * https://twitter.com/offsectraining
+    * https://twitter.com/metasploit
+    * https://twitter.com/TenableSecurity
+    * https://twitter.com/CoreSecurity
+    * https://twitter.com/NakedSecurity
+    * https://twitter.com/threatintel
+    * https://twitter.com/SophosLabs
+    * https://twitter.com/symantec
+    * https://twitter.com/SANSInstitute
+    * https://twitter.com/kaspersky
+    * https://twitter.com/threatpost
+    * https://twitter.com/DarkReading
+    * https://twitter.com/InfosecurityMag
+    * https://twitter.com/SecurityWeek
+    * https://twitter.com/BlackHatEvents
+    * https://twitter.com/defcon
+    * https://twitter.com/SwiftOnSecurity
+    * https://twitter.com/BrianHonan
+    * https://twitter.com/gcluley
+    * https://twitter.com/kevinmitnick
+    * https://twitter.com/schneierblog
+    * https://twitter.com/Scott_Helme
+    * https://twitter.com/jeremiahg
+    * https://twitter.com/krebsonsec
+    * https://twitter.com/DanielMiessler
+# **Podcasts**
+  * JavaScript Jabber
+  * The Changelog
+  * CodeNewbie
+  * Software Engineering Daily
+  * StartUp Podcast <-- not really technical but so much fun to listen to
+
+# **Random**
+  * https://www.coursera.org/learn/learning-how-to-learn/home/week/1 <-- learn how to learn effectively. not related to computer science, but it is important because technology changes consistently and programmers must adapt and learn new things often. so, why not spend less time understanding new concepts 
