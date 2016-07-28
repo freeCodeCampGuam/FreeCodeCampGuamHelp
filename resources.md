@@ -141,6 +141,7 @@
     * https://twitter.com/jeremiahg
     * https://twitter.com/krebsonsec
     * https://twitter.com/DanielMiessler
+    
 # **Podcasts**
   * JavaScript Jabber
   * The Changelog
@@ -149,4 +150,4 @@
   * StartUp Podcast <-- not really technical but so much fun to listen to
 
 # **Random**
-  * https://www.coursera.org/learn/learning-how-to-learn/home/week/1 <-- learn how to learn effectively. not related to computer science, but it is important because technology changes consistently and programmers must adapt and learn new things often. so, why not spend less time understanding new concepts 
+  * https://www.coursera.org/learn/learning-how-to-learn/home/week/1 <-- learn how to learn effectively. not related to computer science, but it is important because technology changes consistently and programmers must adapt and learn new things often. so, why not spend less time understanding new concepts
