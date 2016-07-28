@@ -5,6 +5,7 @@
     * https://medium.freecodecamp.com/growth-hacking-your-free-code-camp-group-8cf76300a5d1#.pnmmv9g31
     * https://code4startup.com/
     * https://github.com/vhf/free-programming-books
+    * https://medium.freecodecamp.com/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac#.gc64rh44r <-- definitely sign up for some of these
     * http://www.tynker.com/blog/articles/ideas-and-tips/programming-better-math-skills-fun/
     * https://www.tynker.com/
     * http://www.nytimes.com/2016/05/22/opinion/sunday/to-write-software-read-novels.html?emc=eta1&_r=0 <-- from CEO
