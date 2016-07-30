@@ -40,6 +40,8 @@
     * https://www.kaggle.com/
     * http://codingbat.com
   3. Git (Version Control)
+    * https://try.github.io
+    * http://learngitbranching.js.org/ <-- visual git tutorial
     * https://education.github.com/git-cheat-sheet-education.pdf
     * http://www.git-game.com/ <-- from fcc guys
   4. HTML/CSS
