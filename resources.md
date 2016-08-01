@@ -47,6 +47,7 @@
   4. HTML/CSS
     * http://www.freecodecamp.com/
     * https://github.com/dargaCode/WebDevStudyResources
+    * http://tridiv.com/ <-- 3d CSS editor
   5. JavaScript
     * http://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript <-- scoping example
     * http://store.steampowered.com/app/464350/ <-- js ai game
