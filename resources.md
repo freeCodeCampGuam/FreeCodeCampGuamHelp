@@ -144,7 +144,7 @@
     * https://twitter.com/jeremiahg
     * https://twitter.com/krebsonsec
     * https://twitter.com/DanielMiessler
-    
+
 # **Podcasts**
   * JavaScript Jabber
   * The Changelog
@@ -154,3 +154,6 @@
 
 # **Random**
   * https://www.coursera.org/learn/learning-how-to-learn/home/week/1 <-- learn how to learn effectively. not related to computer science, but it is important because technology changes consistently and programmers must adapt and learn new things often. so, why not spend less time understanding new concepts
+
+# **Tools**
+  * https://www.youtube.com/watch?v=IWgNn1kqrsA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ <-- tips on tools from google chrome developers 
