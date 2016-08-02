@@ -156,4 +156,9 @@
   * https://www.coursera.org/learn/learning-how-to-learn/home/week/1 <-- learn how to learn effectively. not related to computer science, but it is important because technology changes consistently and programmers must adapt and learn new things often. so, why not spend less time understanding new concepts
 
 # **Tools**
-  * https://www.youtube.com/watch?v=IWgNn1kqrsA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ <-- tips on tools from google chrome developers 
+  * https://www.youtube.com/watch?v=IWgNn1kqrsA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ <-- tips on tools from google chrome developers
+
+# **Health**
+  ***Computer programmers often sit in front of a computer for many hours at a time, and many health concerns may arise from neglecting improper posture; therefore, it is important to make sure that your workstation is ergonomically friendly.***
+  * https://us.discovericl.com/blog/the-20-20-20-rule-preventing-digital-eye-strain <-- 20-20-20 rule
+  * https://www.uhs.umich.edu/computerergonomics <-- computer ergonomics
