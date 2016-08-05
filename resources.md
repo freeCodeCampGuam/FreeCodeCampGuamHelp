@@ -1,21 +1,75 @@
+# **Week 1 Materials**
+* [Basic CSS Slides](https://docs.google.com/presentation/d/1gfj88VJ3jQjQhSEMQ5PXHwm_tQVQjPTQmDPiE8VeuEc/edit?usp=sharing)
+* [Rachel's CodePen Projects](https://codepen.io/rmanglona)
+* [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
+* [CodePen Example 1](https://codepen.io/NeoXiD/pen/uBkIn) - canvas fireworks v2
+* [CodePen Example 2](https://codepen.io/shiningjason1989/pen/NALzYQ) - Pikachu animations
+* [CodePen Example 3](https://codepen.io/jackrugile/pen/acAgx) - canvas fireworks
+* [YouTube - What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
+* [YouTube - Carnage Heart](https://www.youtube.com/watch?v=biKhBlCBrXY) - programmable strategy game
+
+# **Essentials**
+  * [freeCodeCamp](http://www.freecodecamp.com/)
+  * [TutorialsPoint](http://www.tutorialspoint.com/)
+  * [GitHub - Open Source Society](https://github.com/open-source-society/computer-science)   
+  * [Reddit - Learn Programming](https://www.reddit.com/r/learnprogramming/wiki/faq)
+  * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+  
+# **Tools**
+  * [Vimium](https://vimium.github.io/) - Google Chrome extension for keyboard shortcuts
+  * [Sublime Text](https://www.sublimetext.com/) - text editor
+  * [Eclipse IDE](https://eclipse.org/) - write and test Java code
+  * [NetBeans IDE](https://netbeans.org/) - similar to Eclipse  
+  * [Kalabox](http://www.kalabox.io/) - local development for Drupal, WordPress, and beyond
+  * [XAMPP](https://www.apachefriends.org/index.html) - similar to Kalabox
+
+# **Ongoing Projects**
+  1. Web
+    * [FCCG Leaderboard](https://github.com/gabrielcerteza/FreeCodeCampGroup-Leaderboard)
+  2. Python
+    * [Red Discord Bot](https://github.com/Twentysix26/Red-DiscordBot) - where Chovin learned python
+  3. Electron
+    * [Desktop Toy](https://github.com/Chovin/DesktopToy)
+
+# **News Sites**
+  * [Hacker News](https://news.ycombinator.com/)
+  * [Tech Crunch](https://techcrunch.com/)
+  * [Wired](http://www.wired.com/)
+  * [MIT Technology Review](https://www.technologyreview.com/)
+
+# **Articles**
+  * [FCC - Top Online Courses](https://medium.freecodecamp.com/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac#.gc64rh44r) <-- definitely sign up for some of these
+  * [FCC - Growing your Campsite](https://medium.freecodecamp.com/growth-hacking-your-free-code-camp-group-8cf76300a5d1#.pnmmv9g31)
+  * [Tynker - Programming for better math skills](http://www.tynker.com/blog/articles/ideas-and-tips/programming-better-math-skills-fun/)
+  * [NY Times - Wanna Write Better Code? Read Virginia Woolf](http://www.nytimes.com/2016/05/22/opinion/sunday/to-write-software-read-novels.html?emc=eta1&_r=0) <-- from CEO
+
+# **Online Courses**
+ * [Plural Sight](https://app.pluralsight.com/id/signin/?redirectTo=https%3A%2F%2Fapp.pluralsight.com%2Flibrary%2F) <-- paid but free for 6 months
+ * [Code4Startup](https://code4startup.com/)
+ * [edX](https://www.edx.org/)
+  1. [Introduction to CS](https://www.edx.org/CS50) <-- from Harvard
+  2. [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/courseware/c879223aff62482dbfcf57265b23e5d7/)
+ * [Udacity](https://www.udacity.com/)
+  1. [Operating Systems](https://www.udacity.com/course/viewer#!/c-ud923/l-3056258560/m-3306199014) 
+ * [Coursera](https://www.coursera.org/)
+ * [University of the People](http://uopeople.edu/groups/coureses/computer_science)
+ 
+# **Videos**
+* [YouTube - Tips from Google Chrome devs](https://www.youtube.com/watch?v=IWgNn1kqrsA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
+* [YouTube - Code Academy Playlist](https://www.youtube.com/user/learncodeacademy/playlists)
+* [YouTube - The New Boston](https://www.youtube.com/user/thenewboston/playlists) - programming, web and game development tutorials
+* [YouTube - Dragon Tale](https://www.youtube.com/watch?v=9dzhgsVaiSo&list=PL-2t7SM0vDfcIedoMIghzzgQqZq45jYGv) - Java 2D Game Development Tutorial
+* [YouTube - Programming Languages](https://www.youtube.com/user/afigfigueira/playlists?shelf_id=6&view=50&sort=dd)
+* [Ted Talks - Pecking order at work](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work#t-234384)
+    
+# **Ebooks**
+* [Reddit - Online Programming Books](https://www.reddit.com/r/learnprogramming/comments/38eq7q/heres_a_list_of_154_free_online_programmingcs/ <-- list of programming books/MOOCs)
+* [GitHub - Programming Books](https://github.com/vhf/free-programming-books)
+    
 # **Programming**
   1. General
-    * https://app.pluralsight.com/id/signin/?redirectTo=https%3A%2F%2Fapp.pluralsight.com%2Flibrary%2F <-- free for six months. must sign up with an email from Microsoft (hotmail? live? not sure)
-    * https://www.reddit.com/r/learnprogramming/comments/38eq7q/heres_a_list_of_154_free_online_programmingcs/ <-- list of programming books/MOOCs
-    * https://www.reddit.com/r/learnprogramming/wiki/onlin
-    * https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_get_started_with_programming.3F
-    * https://medium.freecodecamp.com/growth-hacking-your-free-code-camp-group-8cf76300a5d1#.pnmmv9g31
-    * https://code4startup.com/
-    * https://github.com/vhf/free-programming-books
-    * https://medium.freecodecamp.com/the-data-dont-lie-here-are-the-50-best-free-online-university-courses-of-all-time-b2d9a64edfac#.gc64rh44r <-- definitely sign up for some of these
-    * http://www.tynker.com/blog/articles/ideas-and-tips/programming-better-math-skills-fun/
-    * https://www.tynker.com/
-    * http://www.nytimes.com/2016/05/22/opinion/sunday/to-write-software-read-novels.html?emc=eta1&_r=0 <-- from CEO
-    https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work#t-234384
-    * https://www.youtube.com/user/thenewboston/playlists
-    * https://www.youtube.com/user/learncodeacademy/playlists
-    * https://realfavicongenerator.net/ <-- favicon generator
-    * http://regexr.com/ <-- Regular Expressions
+    * [Favicon Generator](https://realfavicongenerator.net/) <-- favicon generator
+    * [RegEx](http://regexr.com/) <-- Regular Expressions
   2. Practice
     * http://www.dungeonsanddevelopers.com/
     * https://codecombat.com/
@@ -40,12 +94,11 @@
     * https://www.kaggle.com/
     * http://codingbat.com
   3. Git (Version Control)
-    * https://try.github.io
-    * http://learngitbranching.js.org/ <-- visual git tutorial
-    * https://education.github.com/git-cheat-sheet-education.pdf
-    * http://www.git-game.com/ <-- from fcc guys
+    * [Git](https://try.github.io)
+    * [Visual Tutorial](http://learngitbranching.js.org/)
+    * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+    * [Git Game](http://www.git-game.com/) <-- from fcc guys
   4. HTML/CSS
-    * http://www.freecodecamp.com/
     * https://github.com/dargaCode/WebDevStudyResources
     * http://tridiv.com/ <-- 3d CSS editor
   5. JavaScript
@@ -77,41 +130,22 @@
     * http://nestacms.com/docs/creating-content/markdown-cheat-sheet <-- Cheatsheet
 
 # **Computer Science**
-  1. General  
-    * http://uopeople.edu/groups/coureses/computer_science
-    * https://www.edx.org/CS50 <-- Introduction to Computer Science from Harvard
-    * https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/courseware/c879223aff62482dbfcf57265b23e5d7/ <-- Linux
-    * https://www.youtube.com/user/afigfigueira/playlists?shelf_id=6&view=50&sort=dd <-- Programming Languages
-    * https://www.udacity.com/course/viewer#!/c-ud923/l-3056258560/m-3306199014 <-- Operating Systems
-    * https://github.com/open-source-society/computer-science <-- repo with free resources on important CS topics
-    * https://www.google.com/about/careers/students/guide-to-technical-development.html <-- Google's "Technical Development Guide"
-  2. Machine Learning
+  1. Machine Learning
     * https://www.ibm.com/watson/developerbutt/services-catalog.html
     * https://www.tensorflow.org/versions/r0.9/tutorials/index.html
     * https://www.ibm.com/watson/developerbutt/conversation.html
     * https://www.codingame.com/games/machine-learning
     * https://www.youtube.com/playlist?list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt
     * https://www.coursera.org/learn/machine-learning <-- MOOC from Stanford
-  3. Algorithms  
+  2. Algorithms  
     * https://www.coursera.org/learn/algorithm-design-analysis
-
-# **Projects**
-  1. Web
-    * https://github.com/gabrielcerteza/FreeCodeCampGroup-Leaderboard
-  2. Python
-    * https://github.com/Twentysix26/Red-DiscordBot <-- where Chovin learned python
-  3. Electron
-    * https://github.com/Chovin/DesktopToy
 
 # **Dot Files**
   * https://github.com/addyosmani/dotfiles/blob/master/.aliases
   * https://github.com/mathiasbynens/dotfiles/blob/master/.aliases
 
-# **News Sites**
-  * https://news.ycombinator.com/ <-- Hacker News
-  * https://techcrunch.com/
-
 # **Blogs**
+  * [Game Developer](http://neetlife2.blogspot.com/)
 
 # **Twitter**
   1. Programming
@@ -153,12 +187,9 @@
   * StartUp Podcast <-- not really technical but so much fun to listen to
 
 # **Random**
-  * https://www.coursera.org/learn/learning-how-to-learn/home/week/1 <-- learn how to learn effectively. not related to computer science, but it is important because technology changes consistently and programmers must adapt and learn new things often. so, why not spend less time understanding new concepts
-
-# **Tools**
-  * https://www.youtube.com/watch?v=IWgNn1kqrsA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ <-- tips on tools from google chrome developers
+  * [How to learn effectively](https://www.coursera.org/learn/learning-how-to-learn/home/week/1) 
 
 # **Health**
   ***Computer programmers often sit in front of a computer for many hours at a time, and many health concerns may arise from neglecting improper posture; therefore, it is important to make sure that your workstation is ergonomically friendly.***
-  * https://us.discovericl.com/blog/the-20-20-20-rule-preventing-digital-eye-strain <-- 20-20-20 rule
-  * https://www.uhs.umich.edu/computerergonomics <-- computer ergonomics
+  * [Preventing eye strain](https://us.discovericl.com/blog/the-20-20-20-rule-preventing-digital-eye-strain)
+  * [Computer ergonomics](https://www.uhs.umich.edu/computerergonomics)
