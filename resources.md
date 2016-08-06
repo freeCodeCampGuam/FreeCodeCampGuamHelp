@@ -6,10 +6,9 @@
 3. Watch and Star our [FCC Guam GitHub](https://github.com/FreeCodeCampGuam/FreeCodeCampGuamHelp).
 4. Chat with us at [FCC Guam Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp).
 5. Lastly, join our [FCC Guam Facebook Group](https://www.facebook.com/groups/free.code.camp.Guam/).
- 
+
 * [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
 * [YouTube - What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
-* [YouTube - Carnage Heart](https://www.youtube.com/watch?v=biKhBlCBrXY) - programmable strategy game
 * Peter's [Alone On Earth](https://www.indiegogo.com/projects/guam-game-development-alone-on-earth#/updates) game.
 * Rachel's [CodePen](https://codepen.io/rmanglona) Projects.
 * [Basic CSS Slides](https://docs.google.com/presentation/d/1gfj88VJ3jQjQhSEMQ5PXHwm_tQVQjPTQmDPiE8VeuEc/edit?usp=sharing)
