@@ -1,21 +1,25 @@
 # **Week 1 Materials**
-* [Basic CSS Slides](https://docs.google.com/presentation/d/1gfj88VJ3jQjQhSEMQ5PXHwm_tQVQjPTQmDPiE8VeuEc/edit?usp=sharing)
-* [Rachel's CodePen Projects](https://codepen.io/rmanglona)
-* [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
-* [CodePen Example 1](https://codepen.io/NeoXiD/pen/uBkIn) - canvas fireworks v2
-* [CodePen Example 2](https://codepen.io/shiningjason1989/pen/NALzYQ) - Pikachu animations
-* [CodePen Example 3](https://codepen.io/jackrugile/pen/acAgx) - canvas fireworks
-* [YouTube - What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
-* [YouTube - Carnage Heart](https://www.youtube.com/watch?v=biKhBlCBrXY) - programmable strategy game
+ * [GitHub](https://github.com/)
+ * [Free Code Camp Guam's Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp)
+ * [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
+ * [YouTube - What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
+ * [YouTube - Carnage Heart](https://www.youtube.com/watch?v=biKhBlCBrXY) - programmable strategy game
+ * [Basic CSS Slides](https://docs.google.com/presentation/d/1gfj88VJ3jQjQhSEMQ5PXHwm_tQVQjPTQmDPiE8VeuEc/edit?usp=sharing)
+ * [Rachel's CodePen Projects](https://codepen.io/rmanglona)
+ * [CodePen Example 1](https://codepen.io/NeoXiD/pen/uBkIn) - canvas fireworks v2
+ * [CodePen Example 2](https://codepen.io/shiningjason1989/pen/NALzYQ) - Pikachu animations
+ * [CodePen Example 3](https://codepen.io/jackrugile/pen/acAgx) - canvas fireworks
 
 # **Essentials**
   * [freeCodeCamp](http://www.freecodecamp.com/)
   * [TutorialsPoint](http://www.tutorialspoint.com/)
   * [GitHub - Open Source Society](https://github.com/open-source-society/computer-science)   
-  * [Reddit - Learn Programming](https://www.reddit.com/r/learnprogramming/wiki/faq)
   * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+  * [Reddit - Learn Programming](https://www.reddit.com/r/learnprogramming/wiki/faq)
   
 # **Tools**
+  * [GitKraken](https://www.gitkraken.com/) - GUI for GitHub
+  * [SQLyog](https://github.com/webyog/sqlyog-community/wiki/Downloads) - GUI for SQL database
   * [Vimium](https://vimium.github.io/) - Google Chrome extension for keyboard shortcuts
   * [Sublime Text](https://www.sublimetext.com/) - text editor
   * [Eclipse IDE](https://eclipse.org/) - write and test Java code
@@ -149,19 +153,19 @@
 
 # **Twitter**
   1. Programming
-    * https://twitter.com/addyosmani <-- Engineer at Google working on @GoogleChrome • Author • Creator of TodoMVC, @Yeoman, Material Design Lite, Critical
-    * https://twitter.com/TheHackersNews
+    * [Addyosmani](https://twitter.com/addyosmani) <-- Engineer at Google working on @GoogleChrome • Author • Creator of TodoMVC, @Yeoman, Material Design Lite, Critical
+    * [The Hacker's News](https://twitter.com/TheHackersNews)
   2. Cyber Security
-    * https://twitter.com/SANSEMEA
-    * https://twitter.com/offsectraining
-    * https://twitter.com/metasploit
-    * https://twitter.com/TenableSecurity
-    * https://twitter.com/CoreSecurity
-    * https://twitter.com/NakedSecurity
-    * https://twitter.com/threatintel
-    * https://twitter.com/SophosLabs
-    * https://twitter.com/symantec
-    * https://twitter.com/SANSInstitute
+    * [Sansemea](https://twitter.com/SANSEMEA)
+    * [Offsectraining](https://twitter.com/offsectraining)
+    * [Metasploit](https://twitter.com/metasploit)
+    * [Tenable Security](https://twitter.com/TenableSecurity)
+    * [Core Security](https://twitter.com/CoreSecurity)
+    * [Naked Security](https://twitter.com/NakedSecurity)
+    * [Threat Intel](https://twitter.com/threatintel)
+    * [Sophos Labs](https://twitter.com/SophosLabs)
+    * [Symantec](https://twitter.com/symantec)
+    * [SANS Institute](https://twitter.com/SANSInstitute)
     * https://twitter.com/kaspersky
     * https://twitter.com/threatpost
     * https://twitter.com/DarkReading
