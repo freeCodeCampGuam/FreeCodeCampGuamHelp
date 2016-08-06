@@ -1,7 +1,12 @@
 # **Week 1 Materials**
- * [GitHub](https://github.com/)
- * [Free Code Camp Guam's Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp)
- * [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
+ * Joining Us
+ * 1. Create your free [GitHub](https://github.com/) account.
+ * 2. Create a [freeCodeCamp](https://www.freecodecamp.com/) account.
+ * 3. Watch and Star our [FCC Guam's GitHub](https://github.com/FreeCodeCampGuam/FreeCodeCampGuamHelp)
+ * 4. Chat with us at [FCC Guam's Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp).
+ * 5. Lastly, join our [FCC Guam Facebook Group](https://www.facebook.com/groups/free.code.camp.Guam/).
+ 
+* [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
  * [YouTube - What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
  * [YouTube - Carnage Heart](https://www.youtube.com/watch?v=biKhBlCBrXY) - programmable strategy game
  * [Basic CSS Slides](https://docs.google.com/presentation/d/1gfj88VJ3jQjQhSEMQ5PXHwm_tQVQjPTQmDPiE8VeuEc/edit?usp=sharing)
