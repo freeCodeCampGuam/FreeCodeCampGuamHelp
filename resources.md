@@ -3,9 +3,8 @@
  
 1. Create your free [GitHub](https://github.com/) account.
 2. Create a [freeCodeCamp](https://www.freecodecamp.com/) account.
-3. Watch and Star our [FCC Guam GitHub](https://github.com/FreeCodeCampGuam/FreeCodeCampGuamHelp).
-4. Chat with us at [FCC Guam Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp).
-5. Lastly, join our [FCC Guam Facebook Group](https://www.facebook.com/groups/free.code.camp.Guam/).
+3. Chat with us at [FCC Guam Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp).
+4. Lastly, join our [FCC Guam Facebook Group](https://www.facebook.com/groups/free.code.camp.guam/).
 
 * [Type Racer Game](http://play.typeracer.com/) - ice breaker challenge
 * [YouTube - What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
@@ -30,7 +29,7 @@
   * [Eclipse IDE](https://eclipse.org/) - write and test Java code
   * [NetBeans IDE](https://netbeans.org/) - similar to Eclipse  
   * [Kalabox](http://www.kalabox.io/) - local development for Drupal, WordPress, and beyond
-  * [XAMPP](https://www.apachefriends.org/index.html) - similar to Kalabox
+  * [XAMPP](https://www.apachefriends.org/index.html) - A Popular Web Dev Stack. XAMPP stands for Cross-Platform(__X__), **A**pache, **M**ariaDB, **P**HP, **P**erl. The one most people know about is LAMP (**L**inux, **A**pache, **M**ySQL, **P**HP).
 
 # **Ongoing Projects**
   1. Web
