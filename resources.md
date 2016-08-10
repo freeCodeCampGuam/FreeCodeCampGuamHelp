@@ -1,6 +1,6 @@
 # **Week 1 Materials**
 * Joining Us
- 
+
 1. Create your free [GitHub](https://github.com/) account.
 2. Create a [freeCodeCamp](https://www.freecodecamp.com/) account.
 3. Chat with us at [FCC Guam Gitter](https://gitter.im/Chovin/GuamFreeCodeCamp).
@@ -20,16 +20,20 @@
   * [GitHub - Open Source Society](https://github.com/open-source-society/computer-science)   
   * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
   * [Reddit - Learn Programming](https://www.reddit.com/r/learnprogramming/wiki/faq)
-  
+
 # **Tools**
   * [GitKraken](https://www.gitkraken.com/) - GUI for GitHub
   * [SQLyog](https://github.com/webyog/sqlyog-community/wiki/Downloads) - GUI for SQL database
-  * [Vimium](https://vimium.github.io/) - Google Chrome extension for keyboard shortcuts
   * [Sublime Text](https://www.sublimetext.com/) - text editor
   * [Eclipse IDE](https://eclipse.org/) - write and test Java code
   * [NetBeans IDE](https://netbeans.org/) - similar to Eclipse  
   * [Kalabox](http://www.kalabox.io/) - local development for Drupal, WordPress, and beyond
   * [XAMPP](https://www.apachefriends.org/index.html) - A Popular Web Dev Stack. XAMPP stands for Cross-Platform(__X__), **A**pache, **M**ariaDB, **P**HP, **P**erl. The one most people know about is LAMP (**L**inux, **A**pache, **M**ySQL, **P**HP).
+  * [Atom](https://atom.io/) - "A hackable text editor
+for the 21st Century"  
+  * [Vimium](https://vimium.github.io/) - Google Chrome extension for keyboard shortcuts
+  * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) - chrome extension to view formatted JSON on the web
+  * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - chrome extension that adds a toolbar with various web developer tools  
 
 # **Ongoing Projects**
   1. Web
@@ -59,13 +63,13 @@
   1. [Introduction to CS](https://www.edx.org/CS50) <-- from Harvard
   2. [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/courseware/c879223aff62482dbfcf57265b23e5d7/)
  * [Udacity](https://www.udacity.com/)
-  1. [Operating Systems](https://www.udacity.com/course/viewer#!/c-ud923/l-3056258560/m-3306199014) 
+  1. [Operating Systems](https://www.udacity.com/course/viewer#!/c-ud923/l-3056258560/m-3306199014)
  * [Coursera](https://www.coursera.org/)
   1. [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) <-- MOOC from Stanford
   2. [Coursera - Algorithm Design Analysis](https://www.coursera.org/learn/algorithm-design-analysis)
  * [University of the People](http://uopeople.edu/groups/coureses/computer_science)
  * [iTunes - App Development Teaching Swift](https://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963)
- 
+
 # **Videos**
 * [YouTube - Tips from Google Chrome devs](https://www.youtube.com/watch?v=IWgNn1kqrsA&list=PLOU2XLYxmsILKwwASNS0xgfcmakbK_8JZ)
 * [YouTube - Code Academy Playlist](https://www.youtube.com/user/learncodeacademy/playlists)
@@ -74,11 +78,11 @@
 * [YouTube - Programming Languages](https://www.youtube.com/user/afigfigueira/playlists?shelf_id=6&view=50&sort=dd)
 * [YouTube - Machine Learning from Google Devs](https://www.youtube.com/playlist?list=PLT6elRN3Aer7ncFlaCz8Zz-4B5cnsrOMt)
 * [Ted Talks - Pecking order at work](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work#t-234384)
- 
+
 # **Ebooks**
 * [Reddit - Online Programming Books](https://www.reddit.com/r/learnprogramming/comments/38eq7q/heres_a_list_of_154_free_online_programmingcs/ <-- list of programming books/MOOCs)
 * [GitHub - Programming Books](https://github.com/vhf/free-programming-books)
-    
+
 # **Programming**
   1. General
     * [Favicon Generator](https://realfavicongenerator.net/) <-- favicon generator
@@ -125,7 +129,7 @@
     * [React](https://medium.freecodecamp.com/create-react-app-and-the-future-of-creating-react-applications-3c336f29bf1c#.2cocnehwq) <-- easily start creating React apps  
     * [Functional Programming](http://reactivex.io/learnrx/)
     * [YouTube - Functional Programming](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-    * [You Don't Know JS Book Series](https://github.com/getify/You-Dont-Know-JS) 
+    * [You Don't Know JS Book Series](https://github.com/getify/You-Dont-Know-JS)
   6. Python
     * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
     * [Program arcade games](http://programarcadegames.com/)
@@ -143,13 +147,13 @@
     * [Tensor Flow tutorials](https://www.tensorflow.org/versions/r0.9/tutorials/index.html)
     * [IBM Conversation](https://www.ibm.com/watson/developerbutt/conversation.html)
     * [CodinGame - Machine Learning](https://www.codingame.com/games/machine-learning)
-    
+
 
 # **Blogs**
   * [Game Developer](http://neetlife2.blogspot.com/)
 
 # **Random**
-  * [How to learn effectively](https://www.coursera.org/learn/learning-how-to-learn/home/week/1) 
+  * [How to learn effectively](https://www.coursera.org/learn/learning-how-to-learn/home/week/1)
 
 # **Health**
   ***Computer programmers often sit in front of a computer for many hours at a time, and many health concerns may arise from neglecting improper posture; therefore, it is important to make sure that your workstation is ergonomically friendly.***
@@ -169,7 +173,7 @@
   * CodeNewbie
   * Software Engineering Daily
   * StartUp Podcast <-- not really technical but so much fun to listen to
- 
+
 # **Dot Files**
   * https://github.com/addyosmani/dotfiles/blob/master/.aliases
   * https://github.com/mathiasbynens/dotfiles/blob/master/.aliases
