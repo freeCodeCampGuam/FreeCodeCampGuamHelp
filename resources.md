@@ -118,6 +118,8 @@ for the 21st Century"
   4. HTML/CSS, JacaScript, Python, Swift, Ruby, Command Line, Markdown
     * [Web Dev Study Resources](https://github.com/dargaCode/WebDevStudyResources)
     * [3d CSS editor](http://tridiv.com/)
+    * [taste of what can be done with transitions](http://leaverou.github.io/animatable/)
+    * [LEA VEROU - Life at the bleeding edge (of web standards)](http://lea.verou.me/)
   5. JavaScript
     * [Stack Overflow - Scoping Example](http://stackoverflow.com/questions/500431/what-is-the-scope-of-variables-in-javascript)
     * [JS AI Game](http://store.steampowered.com/app/464350/)
