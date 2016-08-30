@@ -100,5 +100,8 @@ def setup(bot):
     bot.add_cog(Mycog(bot))
 ```
 
+Now just save it as `mycog.py` and load it with `!load mycog` in discord.  
+Now when you type `!mycom`, your bot should spit out a Chuck Norris joke
+
 What now? [Some explanations](PythonIntro.md)
 
