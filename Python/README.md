@@ -8,8 +8,9 @@
 We can recommend [Sublime Text 3](https://www.sublimetext.com/) and [Atom](https://atom.io/).
 
 ###Pick your poison
+
 | [Sublime Text 3](https://www.sublimetext.com/) | [Atom](https://atom.io/) |
-| - | - |
+| --- | --- |
 | Free (like Winrar) | **`Free`** |
 | Closed Source | **`Open Source`** |
 | Fully Customizable | Fully Customizable |
