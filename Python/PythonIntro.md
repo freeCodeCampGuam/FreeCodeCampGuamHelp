@@ -81,5 +81,17 @@ help("some string".join)
 
 As you saw above, access an object's attributes using `.` notation.
 
-use `dir()` and `help()` religiously to learn more about python and the libraries you use. If you need more info on them, as always, **Google** and read the docs.
+You can also see an object's docstring using `.__doc__`. It's usually just a shorter version of `help()`.
+
+```py
+True.__doc__
+# -->
+# bool(x) -> bool
+#
+# Returns True when the argument x is true, False otherwise.
+# The builtins True and False are the only two instances of the class bool.
+# The class bool is a subclass of the class int, and cannot be subclassed.
+```
+
+Use `dir()`, `help()`, and `__doc__` religiously to learn more about python and the libraries you use. If you need more info on them, as always, **Google** and read the docs.
 
