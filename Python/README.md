@@ -21,3 +21,4 @@ We can recommend [Sublime Text 3](https://www.sublimetext.com/) and [Atom](https
 
 ###1. [Set up sublime](sublime.md)
 ###2. [Set up the bot](Red-DiscordBot.md)
+###3. [Python Intro](PythonIntro.md)
