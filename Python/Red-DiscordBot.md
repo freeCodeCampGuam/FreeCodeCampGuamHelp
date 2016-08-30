@@ -26,3 +26,5 @@ I've made a few edits to the cog to allow printing of large messages. If you wou
 Once you've added the file to your `cogs` folder, you'll need to load it in discord by typing `[p]load repl`. Now you can execute arbitrary Python code within Discord.  
 
 ![](https://cdn.discordapp.com/attachments/206326891752325122/220095271831339008/repl.gif)
+
+Now [go back](README.md) and start making cogs! 
