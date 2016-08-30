@@ -18,4 +18,5 @@ We can recommend [Sublime Text 3](https://www.sublimetext.com/) and [Atom](https
 
 *I use sublime so this page will focus on that editor.
 
-###[Set up sublime](sublime.md)
+###1. [Set up sublime](sublime.md)
+###2. [Set up the bot](Red-DiscordBot.md)
