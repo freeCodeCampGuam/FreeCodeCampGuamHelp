@@ -1,9 +1,19 @@
 ##Python Intro
 
-####Types:
-Here is an [intro to python](https://docs.python.org/3.5/tutorial/introduction.html) from their official docs.
+*edit:
+After I wrote this page, I found a more in-depth, better written article online!  
+[Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/).   It's an introduction to python 2. We're using python 3, so there will be some differences.  
 
-TLDR:
+| Python 2 | Python 3 |
+| -------- | -------- |
+| `print "stuff"` | `print("stuff")` |
+| `xrange(n)` | `range(n)` |
+| N/A | `async` and `await` |
+| `3 / 2 == 1` | `3 / 2 == 1.5` |  
+
+Here is the official introduction from the Python docs as well: [intro to python](https://docs.python.org/3.5/tutorial/introduction.html)
+
+####Types:  
 ```py
 # this is a comment
 
@@ -94,13 +104,4 @@ True.__doc__
 ```
 
 Use `dir()`, `help()`, and `__doc__` religiously to learn more about python and the libraries you use. If you need more info on them, as always, **Google** and read the docs.
-
-For a more in-depth TLDR for python, [read this](https://www.stavros.io/tutorials/python/). It's an introduction to python 2 so there will be some syntax differences.
-
-| Python 2 | Python 3 |
-| -------- | -------- |
-| `print "stuff"` | `print("stuff")` |
-| `xrange(n)` | `range(n)` |
-| N/A | `async` and `await` |
-| `3 / 2 == 1` | `3 / 2 == 1.5` |
 
