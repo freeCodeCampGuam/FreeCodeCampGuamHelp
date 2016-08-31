@@ -13,6 +13,7 @@ After I wrote this page, I found a more in-depth, better written article online!
 
 Here is the official introduction from the Python docs as well: [intro to python](https://docs.python.org/3.5/tutorial/introduction.html)
 
+TLDR:  
 ####Types:  
 ```py
 # this is a comment
