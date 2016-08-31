@@ -34,11 +34,11 @@ def setup(bot):
 
 API stands for Application program interface. An API allows for applications to talk with each other.
 
-Many web APIs return results in JSON format like this result from the [Chuck Norris Jokes API](http://www.icndb.com/api/)
+Many web APIs return results in JSON format like this result from the [Chuck Norris Jokes API](http://www.icndb.com/api/). We will be using this API for this tutorial.
 ```json
 { "type": "success", "value": { "id": 233, "joke": "When Bruce Banner gets mad, he turns into the Hulk. When the Hulk gets mad, he turns into Chuck Norris.", "categories": [] } }
 ```
-Getting a response like this means we don't have to go digging through html that may change when the webpage changes.
+Responses like this are much easier to deal with because we don't have to go digging through all the html that may change when the webpage changes.
 
 In order to make a call to an API we will need to import aiohttp (not requests because that blocks).
 ```py
@@ -54,21 +54,21 @@ This is the basic structure of an aiohttp request:
 async with aiohttp.get(url) as response:
     result = await response.json()
 ```
-Let's use this to make a request here to this API: [http://api.icndb.com/jokes/random/](http://api.icndb.com/jokes/random/)
+Let's use this to make a request to the Chuck Norris API: [http://api.icndb.com/jokes/random/](http://api.icndb.com/jokes/random/)
 ```py
 async with aiohttp.get("http://api.icndb.com/jokes/random/") as response:
     result = await response.json()
 ```
-`response.json()` returns the JSON response as a dict which we store in result. You can worry about dicts later.
-In this case, the response comes back structured like this `{"type": "success", `**`"value"`**`: {"id": 233, `**`"joke"`**`: "blah blah blah", "categories": []}}`
+`response.json()` returns the JSON response as a dict which we store in result. You can worry about dicts later.  
+Again, the response comes back structured like this `{"type": "success", `**`"value"`**`: {"id": 233, `**`"joke"`**`: "blah blah blah", "categories": []}}`  
 
-Let's get the `"joke"` part of the response within `"value"`. To do that we do this:
+Let's get the **`"joke"`** part of the response within **`"value"`**. To do that we do this:  
 ```py
 async with aiohttp.get("http://api.icndb.com/jokes/random/") as response:
     result = await response.json()
 joke = result["value"]["joke"]
 ```
-`result["value"]` gets `{"id": 233,"joke": "blah blah blah", "categories": []}}`
+`result["value"]` gets `{"id": 233,"joke": "blah blah blah", "categories": []}}`  
 and `result["value"]["joke"]` gets `"blah blah blah"`
 
 Finally, we make the bot say the joke.
@@ -102,6 +102,8 @@ def setup(bot):
 
 Now just save it as `mycog.py` and load it with `!load mycog` in discord.  
 Now when you type `!mycom`, your bot should spit out a Chuck Norris joke
+
+![](https://cdn.discordapp.com/attachments/206326891752325122/220333306359709696/unknown.png)
 
 What now? [Some explanations](PythonIntro.md)
 

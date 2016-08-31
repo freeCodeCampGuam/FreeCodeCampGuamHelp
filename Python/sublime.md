@@ -2,11 +2,11 @@
 
 Get [Package Control](https://packagecontrol.io/). You will want to bookmark that page as well. With package control, you can install and manage your packages with simple keystrokes.
 
-The installation is pretty straight forward. In sublime, press <kbd>ctrl+`</kbd> and paste in the code given to you on the installation page. You may need ot restart your sublime to make sure the changes have taken place.
+The installation is pretty straight forward. In sublime, press <kbd>ctrl+`</kbd> and paste in the code given to you on the installation page. You may need to restart your sublime to make sure the changes have taken place.
 
 ![](https://cdn.discordapp.com/attachments/206277423120121857/220051241806331904/pck_ctrl.gif)
 
-Now that you have Package Control installed, you can press `ctrl+shift+p` or `cmd+shift+p` on Mac to open up your "Command Pallete". You can access many of Sublime's commands through here as well as commands from packages you install.
+Now that you have Package Control installed, you can press `ctrl+shift+p` (or `cmd+shift+p` on Mac) to open up your "Command Pallete". You can access many of Sublime's commands through here as well as commands from packages you install.
 
 Sublime uses `fuzzy` search. That means if you want to get to the command, `Package Control: Install Package`, instead of typing out the whole thing, you can just type `pki` and it'll be the selected command.
 
@@ -128,4 +128,8 @@ Now in `Main.sublime-menu`, add these:
 That will add the `SublimeREPL: Python3` and `SublimeREPL: Python3 - RUN current file` commands to your Command Pallete (`cmd+shift+p`)
 ![](https://cdn.discordapp.com/attachments/206326891752325122/220116976922656768/sublreplb.gif)
 
+* Customize your Anaconda IDE (if you plan on using it)  
+Open Anaconda's Default and User settings. The default settings get reset every time you restart sublime, so you will want to make your changes in the user settings.  
+If you have more than one Python version installed, you will want to specify which one Anaconda will lint for.  
+![](https://cdn.discordapp.com/attachments/206326891752325122/220336067147071488/anaconda.gif)
 
