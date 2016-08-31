@@ -1,4 +1,4 @@
-###`async` / `await` and Red commands
+##`async` / `await` and Red commands
 
 The bot we will be using to learn Python is asynchronous.  
 You don't need to know what that means in order to program for the bot.
@@ -49,7 +49,7 @@ You can also make command groups with subcommands. I'll let you look through the
 
 [Go back](README.md) and learn about Redbot conventions
 
-####More detailed explanation of `async`
+###More detailed explanation of `async`
 
 *note: asynchonous != parallelism. tasks != threads
 
@@ -112,15 +112,15 @@ async def on_message(message):
     if user_allowed(message):
         await bot.process_commands(message)
 ```
-all that is saying is on every message from Discord (`on_message`), if the user is allowed to use the bot here (`user_allowed`), process the command (`process_commands`)  
+All that is saying is on every message from Discord (`on_message`), if the user is allowed to use the bot here (`user_allowed`), process the command (`process_commands`).  
 
-you can still schedule your own tasks if you want. You can access the event loop in the bot via `bot.loop` and you can `create_task`s for it to execute some time in the future.
+You can still schedule your own tasks if you want. You can access the event loop in the bot via `bot.loop` and you can `create_task`s for it to execute some time in the future.
 ```py
 self.bot.loop(self.bot.say('1 apple'))
 self.bot.loop(self.bot.say('2 banana'))
 self.bot.loop(self.bot.say('3 orange'))
 ```
-There is no quaranteed order in which they will run though. The output could be:
+There is no guaranteed order in which they will run though. The output could be:
 > 1 apple  
  3 orange  
  2 banana

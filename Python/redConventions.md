@@ -1,4 +1,4 @@
-##Red-DiscordBot Conventions
+#Red-DiscordBot Conventions
 
 *this guide is under construction and conventions are always changing. The best way to get a feel for the conventions is to spend time in the Red server and take a look at the most accepted cogs.
 
@@ -11,9 +11,9 @@ The bot's conventions deviate from PEP8 in some cases. This guide will describe 
 [PEP8 condones this behavior](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds):
 > However, know when to be inconsistent -- sometimes style guide recommendations just aren't applicable. When in doubt, use your best judgment. Look at other examples and decide what looks best. And don't hesitate to ask! 
 
-###Deviations
+##Deviations
 
-####File names and Class names
+###File names and Class names
 
 The `!load` command uses filenames and the `!help` command uses classnames.
 
@@ -23,9 +23,9 @@ When programming for this bot, to avoid confusion, please make sure your filenam
 | -------- | --------- | 
 | multiplewords.py | Multiplewords |
 
-In the near future we may make both `!help` and `!load` use the filename but we'll towards the user we'll refer to the cogs with a capitalized 1st letter.
+In the near future we may make both `!help` and `!load` use the filename but towards the user we'll refer to the cogs with a capitalized 1st letter.
 
-####Command names
+###Command names
 
 Commands are registered into the bot using their function names.
 
@@ -84,9 +84,9 @@ async def _economyset_payout(self):
     pass
 ```
 
-###Useful Snippets
+##Useful Snippets
 
-####context
+###context
 
 `command` has an option parameter `pass_context`. You will almost always want to set it to `True`. In fact, there is no reason why you shouldn't.
 
@@ -110,7 +110,7 @@ async def cmdname(self, ctx):
     author = crx.message.author
 ```
 
-####Cogs and `n = Cog(bot)`
+###Cogs and `n = Cog(bot)`
 
 A cog is a collection of related commands and/or functionalities.  
 A cog does not need to have any commands.  
@@ -149,7 +149,7 @@ If no listeners need to be added `n = Cog(bot)` and `bot.add_cog(n)`
 could be combined in one line: `bot.add_cog(Cog(bot))`   
 We tend to leave them as separate lines though. ¯\\\_(ツ)_/¯  
 
-####Storing data
+###Storing data
 
 *under construction
 
@@ -163,7 +163,7 @@ Up until recently, we used dataIO's `fileIO`. You will see a lot of cogs using t
 
 This is the general structure of a cog with persistant settings using `dataIO`.  
 You will use it so often, you might as well make a snippet out of it.  
-*self-advertising: there's an IDE cog in my repo with some useful bot snippet. It is not updated to use dataIO yet though.
+*self-advertising: there's an IDE cog in my repo with some useful bot snippets. It is not updated to use dataIO yet though.
 ```py
 import discord
 from discord.ext import commands
@@ -216,3 +216,13 @@ def setup(bot):
     n = Mycog(bot)
     bot.add_cog(n)
 ```
+
+TODO: parameters, consuming rest  
+
+TODO: convert tabs to spaces  
+
+TODO: how to ask in #support  
+
+TODO: if you want to publish cogs, you should join the server and try to be a part of the community. You will learn new things including new conventions and you will gain trust with the members of the community.  
+
+TODO: how to publish cogs + how to use git  

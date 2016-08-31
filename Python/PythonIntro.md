@@ -15,7 +15,7 @@ Here is the official introduction from the Python docs as well: [intro to python
 
 TLDR:  
 
-####How to learn as you go:
+###How to learn as you go:
 
 Test small things in your REPL, whether that be on Discord or in your text editor.  
 
@@ -43,7 +43,7 @@ help("some string".startswith)
 
 As you saw above, you can access an object's attributes using `.` notation.
 
-You can also see an object's docstring using `.__doc__`. `help(object)` will show all the docstrings of all the attributes of the object. `.__doc__` will show you the only the object's docstring.
+You can also see an object's docstring using `.__doc__`. `help(object)` will show all the docstrings of all the attributes of the object. `.__doc__` will show you only the object's docstring.
 
 ```py
 help(True)
@@ -83,7 +83,7 @@ Most likely we'll know something you don't or you'll share with us something we 
 I used `ans.startswith('y') or ans.startswith('both')` before writing this tutorial.  
 Now I know that I can do this instead: `ans.startswith(('y','both'))`
 
-####Types:  
+###Types:  
 ```py
 # this is a comment
 
@@ -148,12 +148,13 @@ my_dict["dog"]
 my_dict["human"] = "chips"
 # --> {"dog" : "bone", "cat" : "catnip", "mouse" : "cheese", "human" : "chips"}
 
+# replacing "bone" with "bacon"
 my_dict["dog"] = "bacon"
 # --> {"dog" : "bacon", "cat" : "catnip", "mouse" : "cheese", "human" : "chips"}
 ```
 There are also `set()`s and tuples: `()` but we use those less often.
 
-####Control Flow and Conditionals:
+###Control Flow and Conditionals:
 
 Python doesn't use semicolons and brackets to denote control flow depth.
 Instead, it uses the colon `:` to denote a new layer of depth and tabs **or** spaces to show what lines are within that depth.  
