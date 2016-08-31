@@ -23,3 +23,5 @@ We can recommend [Sublime Text 3](https://www.sublimetext.com/) and [Atom](https
 ###2. [Set up the bot](Red-DiscordBot.md)
 ###3. [My First Cog](FirstCog.md)
 ###4. [Python Intro](PythonIntro.md)
+###5. [`async` and Red](ascynRed.md)
+###6. [Red conventions](redConventions.md)
