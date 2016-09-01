@@ -67,7 +67,7 @@ async def _set(self):
 The convention is to use the `name` parameter in subcommands also.
 
 ```py
-@group.command()
+@commands.group()
 async def economyset(self)
     pass
 
@@ -226,3 +226,7 @@ TODO: how to ask in #support
 TODO: if you want to publish cogs, you should join the server and try to be a part of the community. You will learn new things including new conventions and you will gain trust with the members of the community.  
 
 TODO: how to publish cogs + how to use git  
+
+TODO: rate limits and spam
+
+TODO: on_message

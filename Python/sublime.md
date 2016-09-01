@@ -18,6 +18,10 @@ Try it. Press `ctrl+shift+p` / `cmd+shift+p` and type `pki`.
 ###Packages:
 Before moving on, you might want to take a look at some of the packages available on [https://packagecontrol.io/](https://packagecontrol.io/).  
 
+If you ever find yourself thinking "hmm what I'm doing is kind of inefficient." or "why am I switching to a different window? can't I do it in sublime?". **Google** to see if sublime has a plugin for it. Search on [https://packagecontrol.io/](https://packagecontrol.io/) for a solution. 80-90% of the time there's already a package for it. If you can't find anything, ask around to see if other people have found a solution.  
+
+Here are some of my choice picks keeping in mind the projects we're working on.
+
 [Here](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings) is a little overview of sublime and some of it's packages  
 [Anaconda](https://packagecontrol.io/packages/Anaconda) - Python IDE  
 [Floobits](https://packagecontrol.io/packages/Floobits) - real-time collaborative coding (think google docs)  
