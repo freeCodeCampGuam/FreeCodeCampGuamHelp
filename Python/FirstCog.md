@@ -68,7 +68,7 @@ async with aiohttp.get("http://api.icndb.com/jokes/random/") as response:
     result = await response.json()
 joke = result["value"]["joke"]
 ```
-`result["value"]` gets `{"id": 233,"joke": "blah blah blah", "categories": []}}`  
+`result["value"]` gets `{"id": 233,"joke": "blah blah blah", "categories": []}`  
 and `result["value"]["joke"]` gets `"blah blah blah"`
 
 Finally, we make the bot say the joke.
