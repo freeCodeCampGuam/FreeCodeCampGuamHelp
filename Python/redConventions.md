@@ -107,7 +107,7 @@ The most common uses for it is getting the command's author, channel, and server
 async def cmdname(self, ctx):
     server = ctx.message.server
     channel = ctx.message.channel
-    author = crx.message.author
+    author = ctx.message.author
 ```
 
 ###Cogs and `n = Cog(bot)`
