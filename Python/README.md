@@ -1,4 +1,4 @@
-#So you want to learn Python
+# So you want to learn Python
 
 <!-- MarkdownTOC -->
 
@@ -7,7 +7,7 @@
 1st thing's first. You'll want a nice text editor to make life easier for you.
 We can recommend [Sublime Text 3](https://www.sublimetext.com/) and [Atom](https://atom.io/).
 
-###Pick your poison
+### Pick your poison
 
 | [Sublime Text 3](https://www.sublimetext.com/) | [Atom](https://atom.io/) |
 | --- | --- |
@@ -19,9 +19,9 @@ We can recommend [Sublime Text 3](https://www.sublimetext.com/) and [Atom](https
 
 *I use sublime so this page will focus on that editor.
 
-###1. [Set up sublime](sublime.md)
-###2. [Set up the bot](Red-DiscordBot.md)
-###3. [My First Cog](FirstCog.md)
-###4. [Python Intro](PythonIntro.md)
-###5. [`async` and Red](asyncRed.md)
-###6. [Red conventions](redConventions.md)
+### 1. [Set up sublime](sublime.md)
+### 2. [Set up the bot](Red-DiscordBot.md)
+### 3. [My First Cog](FirstCog.md)
+### 4. [Python Intro](PythonIntro.md)
+### 5. [`async` and Red](asyncRed.md)
+### 6. [Red conventions](redConventions.md)
