@@ -88,7 +88,7 @@ async def _economyset_payout(self):
 
 ### context
 
-`command` has an option parameter `pass_context`. You will almost always want to set it to `True`. In fact, there is no reason why you shouldn't.
+`command` has an optional parameter `pass_context`. You will almost always want to set it to `True`. In fact, there is no reason why you shouldn't.
 
 With it set to `True`, the command's context will be passed in as the second argument.  
 By convention, we name it `ctx`.
