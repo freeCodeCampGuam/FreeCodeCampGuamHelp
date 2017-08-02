@@ -21,7 +21,7 @@ You will want to get RoboDanny's repl cog. RoboDanny is a bot made by the creato
 
 To get the repl cog, click the Raw button [here](https://github.com/Rapptz/RoboDanny/blob/master/cogs/repl.py) and copy paste the contents into a new file in your `Red-DiscordBot/cogs/` directory and name it `repl.py`.
 
-I've made a few edits to the cog to allow printing of large messages. If you would like, you can use [that version](https://gist.github.com/Chovin/6445540e61d640545f11d087c480ad2b) instead.  
+I've made a few edits to the cog to allow printing of large messages. If you would like, you can use [that version](https://cogs.red/cogs/irdumbs/Dumb-Cogs/repl/) instead.  
 
 Once you've added the file to your `cogs` folder, you'll need to load it in discord by typing `[p]load repl`. Now you can execute arbitrary Python code within Discord.  
 
