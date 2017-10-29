@@ -1,4 +1,4 @@
-##`async` / `await` and Red commands
+## `async` / `await` and Red commands
 
 The bot we will be using to learn Python is asynchronous.  
 You don't need to know what that means in order to program for the bot.
@@ -18,7 +18,7 @@ Here is an example:
 ```py
 @commands.command()
 async def hi(self):
-   await self.bot.say('hi there')
+    await self.bot.say('hi there')
 ```
 
 We defined the `hi()` function as async and inside it we `await` for the bot to say "hi there".
@@ -49,7 +49,7 @@ You can also make command groups with subcommands. I'll let you look through the
 
 [Go back](README.md) and learn about Redbot conventions
 
-###More detailed explanation of `async`
+### More detailed explanation of `async`
 
 *note: asynchonous != parallelism. tasks != threads
 
@@ -64,25 +64,25 @@ import time
 
 class Blockexample:
 
-	def __init__(self, bot):
+    def __init__(self, bot):
         self.bot = bot
 
-	@commands.command()
-	async def asleep(self, num: int):
-		"""async sleeps for a certain amount of time"""
-	    await self.bot.say('asleeping {} seconds'.format(num))
-	    await asyncio.sleep(num)
-	    await self.bot.say('woke up from async sleep')
+    @commands.command()
+    async def asleep(self, num: int):
+        """async sleeps for a certain amount of time"""
+        await self.bot.say('asleeping {} seconds'.format(num))
+        await asyncio.sleep(num)
+        await self.bot.say('woke up from async sleep')
 
-	@commands.command()
-	async def sleep(self, num: int):
-	    """sleeps for certain amount of time (blocking)"""
-	    await self.bot.say('sleeping {} seconds'.format(num))
-	    time.sleep(num)
-	    await self.bot.say('woke up from blocking sleep')
+    @commands.command()
+    async def sleep(self, num: int):
+        """sleeps for certain amount of time (blocking)"""
+        await self.bot.say('sleeping {} seconds'.format(num))
+        time.sleep(num)
+        await self.bot.say('woke up from blocking sleep')
 
 def setup(bot):
-	bot.add_cog(Blockexample(bot))
+    bot.add_cog(Blockexample(bot))
 
 ```
 Here is what happens when I try to make the bot do these commands with other commands.  
