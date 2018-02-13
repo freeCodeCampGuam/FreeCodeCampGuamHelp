@@ -116,9 +116,9 @@ All that is saying is on every message from Discord (`on_message`), if the user 
 
 You can still schedule your own tasks if you want. You can access the event loop in the bot via `bot.loop` and you can `create_task`s for it to execute some time in the future.
 ```py
-self.bot.loop(self.bot.say('1 apple'))
-self.bot.loop(self.bot.say('2 banana'))
-self.bot.loop(self.bot.say('3 orange'))
+self.bot.loop.create_task(self.bot.say('1 apple'))
+self.bot.loop.create_task(self.bot.say('2 banana'))
+self.bot.loop.create_task(self.bot.say('3 orange'))
 ```
 There is no guaranteed order in which they will run though. The output could be:
 > 1 apple  
