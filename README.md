@@ -8,5 +8,9 @@ Please take a look at our [meeting notes](https://github.com/Chovin/FreeCodeCamp
 [4-22](https://github.com/Chovin/FreeCodeCampGuamHelp/blob/master/MeetingNotes/4-22.md) - UOG/GDOE/FCCG summer camp initiative, Prepare for public, DOCOMO Training hours  
 [5-6](https://github.com/Chovin/FreeCodeCampGuamHelp/blob/master/MeetingNotes/5-6.md) - How to help contribute, Learning Trail
 
+
 Feel free to poke around the files and folders above.
+
+
+
 
