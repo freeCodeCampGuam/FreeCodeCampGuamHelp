@@ -454,38 +454,33 @@ In Python, Strings are arrays of bytes representing Unicode characters. However,
 Creating a String
 Strings in Python can be created using single quotes or double quotes or even triple quotes.
 ```
-# Python Program for 
-# Creation of String 
-  
-# Creating a String  
-# with single Quotes 
+`` Python Program for Creation of String 
+ Creating a String  with single Quotes 
+``
 String1 = 'Welcome to the Geeks World'
 print("String with the use of Single Quotes: ") 
 print(String1) 
-  
-# Creating a String 
-# with double Quotes 
+ ``` 
+ Creating a String  with double Quotes 
+```
 String1 = "I'm a Geek"
 print("\nString with the use of Double Quotes: ") 
 print(String1) 
-  
-# Creating a String 
-# with triple Quotes 
+  ``` Creating a String  with triple Quotes ```
 String1 = '''I'm a Geek and I live in a world of "Geeks"'''
 print("\nString with the use of Triple Quotes: ") 
 print(String1) 
   
-# Creating String with triple 
-# Quotes allows multiple lines 
+``` Creating String with triple  Quotes allows multiple lines``` 
 String1 = '''Geeks 
             For 
             Life'''
 print("\nCreating a multiline String: ") 
 print(String1) 
 
-
+```
 [Go back](README.md) and learn about `async` and Red commands
 
-
+```
 
 
