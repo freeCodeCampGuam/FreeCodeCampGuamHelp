@@ -457,6 +457,7 @@ Strings in Python can be created using single quotes or double quotes or even tr
 `` Python Program for Creation of String 
  Creating a String  with single Quotes 
 ``
+```py
 String1 = 'Welcome to the Geeks World'
 print("String with the use of Single Quotes: ") 
 print(String1) 
@@ -477,7 +478,7 @@ String1 = '''Geeks
             Life'''
 print("\nCreating a multiline String: ") 
 print(String1) 
-
+```
 ```
 [Go back](README.md) and learn about `async` and Red commands
 
